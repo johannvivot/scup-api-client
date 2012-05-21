@@ -1,7 +1,7 @@
 Scup API Client
 ===============
 
-A Javascript implementation for Scup API Client
+A Javascript implementation for [Scup API][1] Client
 
 Usage example:
 
@@ -14,3 +14,5 @@ Usage example:
         // DO SOMETHING
     });
 `````
+
+[1]: http://www.scup.com.br/trainings-and-help/apidocs
