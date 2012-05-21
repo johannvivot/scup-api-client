@@ -5,7 +5,7 @@ A Javascript implementation for Scup API Client
 
 Usage example:
 
-<code>
+`````javascript
     // Setup ScupClient
     var client = new ScupClient('YOUR_PUBLIC', 'YOUR_PRIVATE');
 
@@ -13,4 +13,4 @@ Usage example:
     client.monitoramentos().success(function(data){ 
         // DO SOMETHING
     });
-</code>
+`````
